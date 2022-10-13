@@ -10,6 +10,7 @@ namespace Na_15._10
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("mfjkfjkwj");
         }
     }
 }

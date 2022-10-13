@@ -10,6 +10,7 @@ namespace TymNa_15._10
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("дания");
         }
     }
 }
