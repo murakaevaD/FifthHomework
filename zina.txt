@@ -1,0 +1,5 @@
+natalia 6574 1 podklychenie 1 7 
+valeria 6744 2 oplata 0 1 
+michail 7857 3 other 1 9 
+ilya 8764 4 oplata 0 5 
+masha 8878 5 other 0 3 

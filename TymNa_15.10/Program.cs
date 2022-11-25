@@ -10,7 +10,7 @@ namespace TymNa_15._10
     enum months
     {
         январь = 1,
-        февраль = 2,
+        февраль,
         март = 3,
         апрель = 4,
         май = 5,
@@ -48,7 +48,7 @@ namespace TymNa_15._10
             }
             catch (Exception e)
             {
-                Console.WriteLine(e);
+                Console.WriteLine(e.Message);
             }
             finally
             {
