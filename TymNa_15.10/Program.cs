@@ -24,7 +24,7 @@ namespace TymNa_15._10
     }
     internal class Program
     {
-        public static void Number_6_1(string arg) //считаем гласные/согласные буквы
+        public static void Number_6_1(string arg) //считаем гласные и согласные буквы
         {
             try
             {
